@@ -16,7 +16,9 @@ To request deletion of your Finance Gatekeeper cloud account and the financial r
 1. Email [negokamgaing@gmail.com](mailto:negokamgaing@gmail.com) from the email address registered to your Finance Gatekeeper cloud account.
 2. Use **"Finance Gatekeeper account deletion"** as the subject.
 3. We will verify account ownership. If we need more information to verify the request, we will contact you.
-4. After verification, we will delete the cloud account and its associated synced records and confirm when the request has been processed.
+4. Within 30 days of verification, we will delete the cloud account and its associated synced records and confirm when the request has been processed.
+
+In the app, **Backup & restore → Delete my account** opens this page.
 
 Do not send your password or app PIN in the request.
 

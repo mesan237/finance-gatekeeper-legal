@@ -53,11 +53,11 @@ No method of storage or transmission is completely secure. The app's local datab
 
 You can stop using cloud sync by signing out. Signing out does not delete your cloud account or its backup.
 
-To request deletion of your cloud account and its associated synced records, email [negokamgaing@gmail.com](mailto:negokamgaing@gmail.com) from the email address used for the cloud account. Include **"Finance Gatekeeper account deletion"** in the subject. We will verify the request, then delete the cloud account and associated synced records. We will contact you if we need information to verify that you own the account.
+To request deletion of your cloud account and its associated synced records, open **Backup & restore** in the app and tap **Delete my account**, or email [negokamgaing@gmail.com](mailto:negokamgaing@gmail.com) from the email address used for the cloud account. Include **"Finance Gatekeeper account deletion"** in the subject. We will verify the request, then delete the cloud account and associated synced records. We will contact you if we need information to verify that you own the account.
 
 Cloud deletion does not remotely erase a copy already stored on a device. You can remove local app data by clearing the app's storage or uninstalling it. On-device snapshots are also not removed by a cloud deletion request.
 
-Some limited information may remain temporarily in service-provider backups or records where required for security, legal compliance, or dispute resolution. We do not promise a specific deletion timeframe; we will handle verified requests as promptly as practicable.
+We delete the cloud account and its synced records within 30 days of verifying the request. Some limited information may remain temporarily in service-provider backups or records where required for security, legal compliance, or dispute resolution.
 
 See our [Account Deletion Instructions]({{ '/delete-account/' | relative_url }}) for the request steps.
 
