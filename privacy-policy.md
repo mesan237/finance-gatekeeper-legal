@@ -7,8 +7,6 @@ permalink: /
 
 **Last updated: October 28, 2026**
 
-> **Before publishing:** Replace `[Developer or business name shown on Google Play]` with the publisher's name. Review this policy against the app's production configuration and the privacy practices of the services you use. Do not publish it until the account-deletion process described below is operational.
-
 ## Who we are
 
 Finance Gatekeeper is published by Abed In Tech. For privacy questions or requests, contact us at [negokamgaing@gmail.com](mailto:negokamgaing@gmail.com).
